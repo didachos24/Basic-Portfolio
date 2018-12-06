@@ -68,4 +68,10 @@ p {
     border-top: 5px #4aaaa5 solid;
     text-align: center;
     color: #ffffff;
+    position: fixed
+    float: bottom;
+}
+
+h4 {
+    color: #777777;
 }
